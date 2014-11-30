@@ -1,0 +1,5 @@
+C:\Users\Colton\Desktop\CS 1400\Lab #14\lab14\bin\Debug\lab14.exe
+C:\Users\Colton\Desktop\CS 1400\Lab #14\lab14\bin\Debug\lab14.pdb
+C:\Users\Colton\Desktop\CS 1400\Lab #14\lab14\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Colton\Desktop\CS 1400\Lab #14\lab14\obj\x86\Debug\lab14.exe
+C:\Users\Colton\Desktop\CS 1400\Lab #14\lab14\obj\x86\Debug\lab14.pdb

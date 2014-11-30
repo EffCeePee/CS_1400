@@ -1,0 +1,36 @@
+// File Prologue
+// Name: Franklin Colton Parry
+// Section: 601
+// Project: Lab 02
+// Date:  1/14/2012
+
+
+// I declare that the following source code was written by me, or provided
+// by the instructor for this project. I understand that copying
+// source code from any other source constitutes cheating, and that I will
+// receive a zero grade on this project if I am found in violation of
+// this policy.
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+
+        Console.ReadLine();
+    }//End Main()
+}//End class Program
+
+
+
+
+    // Method Prologue for the GetParameters Method
+    // Purpose: Gets the input from a user and validates if it was positve and not zero
+    // Parameters:  Two doubles passed by reference
+    // Returns: Void, all parameters are passed by reference
+    // The method header follows
+
+
+
+MessageBox.Show("Franklin Colton Parry \nCS1400\nProject #10");

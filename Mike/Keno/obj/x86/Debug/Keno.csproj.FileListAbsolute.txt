@@ -1,0 +1,5 @@
+C:\Users\Colton\Desktop\CS 1400\Mike\Keno\bin\Debug\Keno.exe
+C:\Users\Colton\Desktop\CS 1400\Mike\Keno\bin\Debug\Keno.pdb
+C:\Users\Colton\Desktop\CS 1400\Mike\Keno\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Colton\Desktop\CS 1400\Mike\Keno\obj\x86\Debug\Keno.exe
+C:\Users\Colton\Desktop\CS 1400\Mike\Keno\obj\x86\Debug\Keno.pdb

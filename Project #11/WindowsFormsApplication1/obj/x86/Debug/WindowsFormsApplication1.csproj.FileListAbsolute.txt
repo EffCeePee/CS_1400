@@ -1,0 +1,9 @@
+C:\Users\Colton\Desktop\CS 1400\Project #11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Colton\Desktop\CS 1400\Project #11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Colton\Desktop\CS 1400\Project #11\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Colton\Desktop\CS 1400\Project #11\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Colton\Desktop\CS 1400\Project #11\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Colton\Desktop\CS 1400\Project #11\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Colton\Desktop\CS 1400\Project #11\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Colton\Desktop\CS 1400\Project #11\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Colton\Desktop\CS 1400\Project #11\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Colton\Desktop\CS 1400\Project #3\Project 3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Colton\Desktop\CS 1400\Project #3\Project 3\bin\Debug\Project 3.exe
+C:\Users\Colton\Desktop\CS 1400\Project #3\Project 3\bin\Debug\Project 3.pdb
+C:\Users\Colton\Desktop\CS 1400\Project #3\Project 3\obj\x86\Debug\Project 3.exe
+C:\Users\Colton\Desktop\CS 1400\Project #3\Project 3\obj\x86\Debug\Project 3.pdb
